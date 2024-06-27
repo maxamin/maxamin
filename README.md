@@ -8,13 +8,13 @@
 
 ### About Me
 
-- 🔭 Currently working on **Sandbox with Rust**
-- 🌱 Learning **Exploit Development and Networking**
-- 👯 Open to collaborate on **Cyber Security Research in VMware products**
-- 🤝 Seeking help with [SEO and traffic management for my blog](https://infosec-openmic.blogspot.com/)
-- 💬 Ask me about **Cyber Security, System/Network Administration, and MERN Stack development**
-- 📝 Regularly write articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/)
-- 📫 Reach me at **4stalkers@protonmail.com**
+🔐 As a Cyber Security Researcher based in Tunisia, I'm deeply immersed in the realms of digital defense and exploitation. My current passion lies in mastering the art of Sandbox with Rust, while also delving into the intricacies of Exploit Development and Networking.
+
+🌍 I'm always open to collaborating on cutting-edge Cyber Security Research, particularly focusing on VMware products. Currently, I'm also on a quest for insights into SEO and traffic management to amplify the reach of my thought-provoking blog, [InfoSec OpenMic](https://infosec-openmic.blogspot.com/).
+
+💬 Feel free to engage me in discussions ranging from Cyber Security strategies to the nuances of System and Network Administration. Whether it's securing systems or crafting robust applications using the MERN Stack, I'm here to share insights and explore new ideas.
+
+📝 Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
 
 ### Projects and Skills
 
