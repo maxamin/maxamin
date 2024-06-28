@@ -35,9 +35,10 @@
 
 ### OS:
 
-| Windows | Ubuntu | Kali |
+| Linux | Ubuntu | Kali |
 |----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
 
 ### Tools for CTF's
  
@@ -52,3 +53,4 @@
 - Buy Me a Coffee: [Buy Me a Coffee](https://buymeacoffee.com/maxamin)
 - Ba9chich : [ba9chich.com/UL-Tunisia](https://ba9chich.com/UL-Tunisia)
 - FB: [FB.com/TNCSOM](https://www.facebook.com/TNCSOM/)
+  
