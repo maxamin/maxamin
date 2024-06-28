@@ -10,7 +10,7 @@
 
 📝 Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
 
-### Best Demanded Skills, Technologies, and Tools
+### Skills, Technologies, and Tools
 
 🛠️ **Skills**: Cyber Security Strategy, Exploit Development, Networking, System Administration, Network Administration, Threat Hunting.
 
