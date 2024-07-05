@@ -8,7 +8,7 @@
 
 📄 **Resume**: [View my resume](https://github.com/maxamin/My_resume/blob/main/Resume.pdf)
 
-📝 Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
+📝 (SOON) Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
 
 ### Skills, Technologies, and Tools
 
