@@ -1,5 +1,7 @@
 ### About Me
 
+⚠️ i live in a country that have nearly 18% unemployment rate, dont blame me for being unemployed in IT for a while
+
 🔐 As a Cyber Security Researcher based in Tunisia, I'm deeply immersed in the realms of digital defense and exploitation. My current passion lies in mastering the art of Sandbox with Rust, while also delving into the intricacies of Exploit Development and Networking.
 
 🌍 I'm always open to collaborating on cutting-edge Cyber Security Research, particularly focusing on VMware products. Currently, I'm also on a quest for insights into SEO and traffic management to amplify the reach of my thought-provoking blog, [InfoSec OpenMic](https://infosec-openmic.blogspot.com/).
