@@ -6,7 +6,6 @@
 
 💬 Feel free to engage me in discussions ranging from Cyber Security strategies to the nuances of System and Network Administration. Whether it's securing systems or crafting robust applications using the MERN Stack, I'm here to share insights and explore new ideas.
 
-📄 **Resume**: [View my resume](https://github.com/maxamin/My_resume/blob/main/Resume.pdf)
 
 📝 (SOON) Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
 
