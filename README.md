@@ -1,13 +1,6 @@
 ### About Me
 
-🔐 As a Cyber Security Researcher based in Tunisia, I'm deeply immersed in the realms of digital defense and exploitation. My current passion lies in mastering the art of Sandbox with Rust, while also delving into the intricacies of Exploit Development and Networking.
-
-🌍 I'm always open to collaborating on cutting-edge Cyber Security Research [Linkedin](https://www.linkedin.com/in/guesmi-mohamed-amine-63338b345/).
-
-💬 Feel free to engage me in discussions ranging from Cyber Security strategies to the nuances of System and Network Administration. Whether it's securing systems or crafting robust applications using the MERN Stack, I'm here to share insights and explore new ideas.
-
-
-📝 (SOON) Curious about my latest findings? Check out my articles on [InfoSec OpenMic](https://infosec-openmic.blogspot.com/), where I decipher complex security concepts into digestible insights.
+Driven by a passion for digital defense, I'm a Cyber Security Researcher based in Tunisia 🇹🇳 , specializing in Sandbox environments with Rust, Exploit Development, and Networking. Open to collaborations on cutting-edge research. Let's discuss Cyber Security strategies, System Administration, and building robust MERN Stack applications. Stay updated with my insights on InfoSec OpenMic! 🔐🚀
 
 ### Skills, Technologies, and Tools
 
