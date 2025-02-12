@@ -1,6 +1,6 @@
 ### About Me
 
-Driven by a passion for digital defense, I'm a Cyber Security Researcher based in Tunisia 🇹🇳 , specializing in Sandbox environments with Rust, Exploit Development, and Networking. Open to collaborations on cutting-edge research. Let's discuss Cyber Security strategies, System Administration, and building robust MERN Stack applications. Stay updated with my insights on InfoSec OpenMic! 🔐🚀
+Driven by a passion for digital defense, I'm a Cyber Security Researcher based in Tunisia 🇹🇳 , specializing in Exploit Development, and Networking. Open to collaborations on cutting-edge research. Let's discuss Cyber Security strategies, System Administration, and building robust MERN Stack applications. Stay updated with my insights on InfoSec OpenMic! 🔐🚀
 
 ### Skills, Technologies, and Tools
 
